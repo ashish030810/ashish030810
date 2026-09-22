@@ -37,4 +37,4 @@ I build systems that work — from lunar rovers and satellite command consoles t
 ### 📫 Reach Me
 
 📧 ashish15157102@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ashishpatel)
+🔗 [LinkedIn](https://www.linkedin.com/in/ashishpatel0323/)
