@@ -15,7 +15,7 @@ I build systems that work — from lunar rovers and satellite command consoles t
 | **ORION-OS** | Space habitat command console with FSM and I2C telemetry |
 | **AstroPass** | RFID-based crew access control system |
 | **LUNAR-SCRUB** | Autonomous cleaning robot for lunar habitats |
-| **ASTROFLORA** | Automated greenhouse for space environments |
+| **Astro-Flora** | Automated greenhouse for space environments |
 
 ---
 
